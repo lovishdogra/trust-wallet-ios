@@ -23,9 +23,9 @@ target 'Trust' do
   pod 'BonMot'
   pod 'VENTouchLock'
   pod '1PasswordExtension'
-  pod 'Lokalise'
+  # pod 'Lokalise'
   pod 'Moya', '10.0.0-beta.1'
-  pod 'JavaScriptKit' 
+  pod 'JavaScriptKit'
   pod 'CryptoSwift', :git=>'https://github.com/krzyzanowskim/CryptoSwift', :branch=>'master'
 
   target 'TrustTests' do
